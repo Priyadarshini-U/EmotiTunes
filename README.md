@@ -1,0 +1,2 @@
+# EmotiTunes
+Emotion recognition Application
